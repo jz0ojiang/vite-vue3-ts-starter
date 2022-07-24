@@ -1,7 +1,14 @@
-# vite-vue3-ts-template
+# vite-vue3-ts-starter
 
-[-] vue-router
+use:
+
+[-] vue-router (src/router/routes.ts)
+
 [-] sass/scss
+
+note:
+
+router mode: history
 
 ---
 
